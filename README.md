@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/mehak290/leetcode-solutions/tree/master/0763-partition-labels) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/mehak290/leetcode-solutions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/mehak290/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
