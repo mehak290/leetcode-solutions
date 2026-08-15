@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/mehak290/leetcode-solutions/tree/master/0055-jump-game) |
+| [0496-next-greater-element-i](https://github.com/mehak290/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mehak290/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mehak290/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 ## Longest Increasing Subsequence
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/mehak290/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0763-partition-labels](https://github.com/mehak290/leetcode-solutions/tree/master/0763-partition-labels) |
 ## Two Pointers
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mehak290/leetcode-solutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/mehak290/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mehak290/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -48,5 +51,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/mehak290/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mehak290/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
