@@ -68,4 +68,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mehak290/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mehak290/leetcode-solutions/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mehak290/leetcode-solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mehak290/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
