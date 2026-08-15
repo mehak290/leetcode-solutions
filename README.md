@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/mehak290/leetcode-solutions/tree/master/0055-jump-game) |
+| [0739-daily-temperatures](https://github.com/mehak290/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mehak290/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 ## Longest Increasing Subsequence
 |  |
@@ -39,8 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mehak290/leetcode-solutions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/mehak290/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mehak290/leetcode-solutions/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/mehak290/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
