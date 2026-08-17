@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/mehak290/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0763-partition-labels](https://github.com/mehak290/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mehak290/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [1108-defanging-an-ip-address](https://github.com/mehak290/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/mehak290/leetcode-solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/mehak290/leetcode-solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 ## Greedy
