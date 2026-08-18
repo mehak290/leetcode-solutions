@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/mehak290/leetcode-solutions/tree/master/0055-jump-game) |
 | [0763-partition-labels](https://github.com/mehak290/leetcode-solutions/tree/master/0763-partition-labels) |
+| [1710-maximum-units-on-a-truck](https://github.com/mehak290/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/mehak290/leetcode-solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 ## Array
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/mehak290/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/mehak290/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mehak290/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [1710-maximum-units-on-a-truck](https://github.com/mehak290/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mehak290/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/mehak290/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehak290/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/mehak290/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Sliding Window
 |  |
 | ------- |
