@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mehak290/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mehak290/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0763-partition-labels](https://github.com/mehak290/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0925-long-pressed-name](https://github.com/mehak290/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mehak290/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/mehak290/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/mehak290/leetcode-solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mehak290/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0763-partition-labels](https://github.com/mehak290/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0925-long-pressed-name](https://github.com/mehak290/leetcode-solutions/tree/master/0925-long-pressed-name) |
 ## Stack
 |  |
 | ------- |
