@@ -4,8 +4,8 @@ class Solution {
         int count=0;
         int end=interval[0][1];
         for( int[] num: interval){
-            if(num[0]<end) count++;
-            else end=num[1];
+            if(num[0]<end) {count++;}
+            else {end=num[1];}
         }
         return count-1;
     }
