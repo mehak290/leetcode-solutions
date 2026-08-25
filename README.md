@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mehak290/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/mehak290/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mehak290/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/mehak290/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/mehak290/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/mehak290/leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mehak290/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
