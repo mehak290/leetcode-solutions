@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mehak290/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mehak290/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/mehak290/leetcode-solutions/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/mehak290/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0763-partition-labels](https://github.com/mehak290/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0925-long-pressed-name](https://github.com/mehak290/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mehak290/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mehak290/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/mehak290/leetcode-solutions/tree/master/0055-jump-game) |
+| [0087-scramble-string](https://github.com/mehak290/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mehak290/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mehak290/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
