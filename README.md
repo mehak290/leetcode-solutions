@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/mehak290/leetcode-solutions/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/mehak290/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehak290/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/mehak290/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/mehak290/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mehak290/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/mehak290/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mehak290/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/mehak290/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/mehak290/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/mehak290/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehak290/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/mehak290/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 ## Quickselect
 |  |
 | ------- |
@@ -175,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mehak290/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mehak290/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mehak290/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
