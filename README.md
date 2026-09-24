@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/mehak290/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/mehak290/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/mehak290/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/mehak290/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/mehak290/leetcode-solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/mehak290/leetcode-solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 ## Greedy
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/mehak290/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/mehak290/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/mehak290/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/mehak290/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
 | ------- |
