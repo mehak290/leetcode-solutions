@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/mehak290/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/mehak290/leetcode-solutions/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/mehak290/leetcode-solutions/tree/master/0087-scramble-string) |
+| [0224-basic-calculator](https://github.com/mehak290/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/mehak290/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/mehak290/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0763-partition-labels](https://github.com/mehak290/leetcode-solutions/tree/master/0763-partition-labels) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/mehak290/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mehak290/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mehak290/leetcode-solutions/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/mehak290/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/mehak290/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/mehak290/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/mehak290/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/mehak290/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mehak290/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/mehak290/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/mehak290/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 ## Binary Search
 |  |
@@ -227,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/mehak290/leetcode-solutions/tree/master/0901-online-stock-span) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/mehak290/leetcode-solutions/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
