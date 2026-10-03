@@ -1,38 +1,33 @@
 class Solution {
     public String minWindow(String s, String t) {
-        if (s.length() < t.length()) return "";
-        int[] freq = new int[128];
-        for (char ch : t.toCharArray()) {
-            freq[ch]++;
+        if(t.length()>s.length()) return "";
+        int count=t.length();
+        int left=0, right=0, start=0, minLen=Integer.MAX_VALUE;
+        int []freq= new int[128];
+        for(int i=0;i<t.length();i++){
+            freq[t.charAt(i)]++;
         }
-        int left = 0;
-        int right = 0;
-        int count = t.length();
-        int minLen = Integer.MAX_VALUE;
-        int start = 0;
-        while (right < s.length()) {
-            char ch = s.charAt(right);
+        while(right<s.length()){
+            char ch= s.charAt(right);
             freq[ch]--;
-            if (freq[ch] >= 0) {
+            if(freq[ch]>=0){
                 count--;
             }
-            while (count == 0) {
-                if (right - left+1< minLen) {
-                    minLen = right - left+1;
-                    start = left;
-                }
-                char leftChar = s.charAt(left);
-                freq[leftChar]++;
-                if (freq[leftChar] > 0) {
+            while(count==0){
+                if(right+1-left<minLen){
+                     minLen=right-left+1;
+                     start=left;
+                     }
+                char l = s.charAt(left);
+                freq[l]++;
+                if(freq[l]>0){
                     count++;
                 }
                 left++;
             }
             right++;
         }
-        if (minLen == Integer.MAX_VALUE) {
-            return "";
-        }
-        return s.substring(start, start + minLen);
+        if(minLen==Integer.MAX_VALUE) return "";
+        return s.substring(start, start+minLen);
     }
 }
