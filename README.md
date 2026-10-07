@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/mehak290/leetcode-solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/mehak290/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/mehak290/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/mehak290/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/mehak290/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/mehak290/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mehak290/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mehak290/leetcode-solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/mehak290/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/mehak290/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/mehak290/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/mehak290/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
