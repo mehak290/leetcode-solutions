@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/mehak290/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/mehak290/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mehak290/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/mehak290/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/mehak290/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mehak290/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Longest Increasing Subsequence
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/mehak290/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/mehak290/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/mehak290/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/mehak290/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/mehak290/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/mehak290/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/mehak290/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mehak290/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/mehak290/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/mehak290/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mehak290/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
