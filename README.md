@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/mehak290/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/mehak290/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mehak290/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/mehak290/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mehak290/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/mehak290/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mehak290/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mehak290/leetcode-solutions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/mehak290/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mehak290/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/mehak290/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1710-maximum-units-on-a-truck](https://github.com/mehak290/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Sliding Window
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/mehak290/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/mehak290/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/mehak290/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mehak290/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mehak290/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/mehak290/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/mehak290/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mehak290/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mehak290/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
