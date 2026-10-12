@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mehak290/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/mehak290/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mehak290/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/mehak290/leetcode-solutions/tree/master/0224-basic-calculator) |
@@ -269,9 +270,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mehak290/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/mehak290/leetcode-solutions/tree/master/0224-basic-calculator) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mehak290/leetcode-solutions/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mehak290/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
