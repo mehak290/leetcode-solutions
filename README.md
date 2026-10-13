@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/mehak290/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mehak290/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mehak290/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1046-last-stone-weight](https://github.com/mehak290/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mehak290/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/mehak290/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mehak290/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mehak290/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mehak290/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/mehak290/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/mehak290/leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
