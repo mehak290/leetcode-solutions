@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mehak290/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/mehak290/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mehak290/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/mehak290/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/mehak290/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/mehak290/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/mehak290/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mehak290/leetcode-solutions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/mehak290/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mehak290/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0506-relative-ranks](https://github.com/mehak290/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/mehak290/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mehak290/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1710-maximum-units-on-a-truck](https://github.com/mehak290/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehak290/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mehak290/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0506-relative-ranks](https://github.com/mehak290/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mehak290/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/mehak290/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/mehak290/leetcode-solutions/tree/master/1046-last-stone-weight) |
