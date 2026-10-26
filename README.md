@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/mehak290/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/mehak290/leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mehak290/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/mehak290/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/mehak290/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/mehak290/leetcode-solutions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mehak290/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/mehak290/leetcode-solutions/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/mehak290/leetcode-solutions/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/mehak290/leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/mehak290/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/mehak290/leetcode-solutions/tree/master/0268-missing-number) |
 ## Linked List
 |  |
