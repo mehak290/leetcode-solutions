@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/mehak290/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/mehak290/leetcode-solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/mehak290/leetcode-solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/mehak290/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Greedy
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mehak290/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/mehak290/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mehak290/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/mehak290/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
