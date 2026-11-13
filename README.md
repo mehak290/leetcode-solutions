@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/mehak290/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mehak290/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mehak290/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mehak290/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mehak290/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mehak290/leetcode-solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/mehak290/leetcode-solutions/tree/master/0224-basic-calculator) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/mehak290/leetcode-solutions/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mehak290/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mehak290/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/mehak290/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -274,11 +276,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mehak290/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mehak290/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mehak290/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mehak290/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mehak290/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mehak290/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## DP on Trees
 |  |
